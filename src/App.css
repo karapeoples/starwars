@@ -1,10 +1,19 @@
-*{
+.body{
   width: 82.5%;
+  margin: 0 auto;
 }
-
-.App {
-  text-align: center;
-  width: 100%;
+.App{
+text-align: center;
 }
-
-
+.header{
+  background: yellow;
+  color: red;
+}
+.filmography{
+  width: 50%;
+  margin: 0 auto;
+}
+.vroom{
+  display: flex;
+  justify-content: space-around;
+}
